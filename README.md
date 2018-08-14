@@ -1,4 +1,4 @@
-# burger
+# Burger Application
 
 A burger eating application with Node.js/Express/MySQL/Handlebars/Materialize/Bootstrap
 
@@ -10,11 +10,11 @@ The application allows a user to type in a burger to add it to the menu. This ad
 
 * Clone the repository to your local machine
 * Install dependencies
-    cd burger
-    npm install
+    * cd burger
+    * npm install
 
 * Run the node server locally
-    node server
+    * node server
 
 * Open the application with the URL: 'http://localhost:3000/' 
 
