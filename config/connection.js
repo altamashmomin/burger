@@ -8,7 +8,7 @@ var connection;
 		port: 3306,
 		host: 'localhost',
 		user: 'root',
-		password: 'virtue247297E3',
+		password: '2507N3XVS()',
 		database: 'burgers_db'
 	});
 

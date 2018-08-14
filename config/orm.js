@@ -32,9 +32,9 @@ var orm = {
 
 		// do the database query
 		connection.query(queryString, function(err, result) {
-			if (err) {
-				throw err;
-			}
+			//if (err) {
+				//throw err;
+			//}
 
 			// callback for results
 			cb(result);
